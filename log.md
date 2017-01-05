@@ -15,3 +15,11 @@
 **Thoughts:** Very slowly... I'm upset.
 
 **Link to work:** [last commit](https://github.com/galas123/TicTacToe/commit/a8d05a14158ca55f070102a48f15a9a85a3b1b77)
+
+### Day 3: January 4, 2017 
+
+**Today's Progress**: Fixed mutability & algorithm.
+
+**Thoughts:** Awesome. The game is work clear. 
+
+**Link to work:** [last commit](https://github.com/galas123/TicTacToe/commit/ce66b784fd4b02e51f7fb03e02cc6d491d21f669)
