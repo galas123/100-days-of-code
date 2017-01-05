@@ -23,3 +23,9 @@
 **Thoughts:** Awesome. The game is work clear. 
 
 **Link to work:** [last commit](https://github.com/galas123/TicTacToe/commit/ce66b784fd4b02e51f7fb03e02cc6d491d21f669)
+
+### Day 4: January 5, 2017 
+
+**Today's Progress**: Fixed last bugs & CSS
+
+**Link to work:** [last commit](https://github.com/galas123/TicTacToe/commit/53ca1b2f276356fca664e5b7d08b3dee7b9930ef)
