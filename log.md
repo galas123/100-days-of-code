@@ -28,6 +28,6 @@
 
 **Today's Progress**: Fixed last bugs & CSS
 
-**Thoughts:** I'm very glad. I have known new trick about centring absolute positioned element. I improve my debug skills. 
+**Thoughts:** I'm very glad. I have known new trick about centring absolute positioned element. I improve my debug skills and redux knowlege. 
 
 **Link to work:** [last commit](https://github.com/galas123/TicTacToe/commit/53ca1b2f276356fca664e5b7d08b3dee7b9930ef)
