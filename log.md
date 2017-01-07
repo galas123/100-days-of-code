@@ -36,6 +36,6 @@
 
 **Today's Progress**: Refactoring with senior frontend developer's help
 
-**Thoughts:** I've made my code more clear and readable
+**Thoughts:** I've made my code more clear and readable, practiced in using redux-thunk middleware
 
 **Link to work:** [last commit](https://github.com/galas123/TicTacToe/commit/f9c0d3bd272ab97c667aa2d135c4002f07fb5352)
