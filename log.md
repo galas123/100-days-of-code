@@ -31,3 +31,11 @@
 **Thoughts:** I'm very glad. I have known new trick about centring absolute positioned element. I improve my debug skills and redux knowlege. 
 
 **Link to work:** [last commit](https://github.com/galas123/TicTacToe/commit/53ca1b2f276356fca664e5b7d08b3dee7b9930ef)
+
+### Day 5: January 6, 2017 
+
+**Today's Progress**: Refactoring with senior frontend developer's help
+
+**Thoughts:** I've made my code more clear and readable
+
+**Link to work:** [last commit](https://github.com/galas123/TicTacToe/commit/f9c0d3bd272ab97c667aa2d135c4002f07fb5352)
