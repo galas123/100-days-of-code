@@ -47,3 +47,11 @@
 **Thoughts:** 
 
 **Link to work:** [last twit](https://twitter.com/feya__s/status/818061927909826560)
+
+### Day 7: January 8, 2017 
+
+**Today's Progress**: It was moved to Codepen
+
+**Thoughts:** I've known how to make redux, csstrancition addons, redux-thunr work in Codepen... 
+
+**Link to work:** [CodePen](http://codepen.io/galas123/pen/wgaRrN)
