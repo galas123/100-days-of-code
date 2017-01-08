@@ -39,3 +39,11 @@
 **Thoughts:** I've made my code more clear and readable, practiced in using redux-thunk middleware
 
 **Link to work:** [last commit](https://github.com/galas123/TicTacToe/commit/f9c0d3bd272ab97c667aa2d135c4002f07fb5352)
+
+### Day 6: January 7, 2017 
+
+**Today's Progress**: Transfer code to Codepen
+
+**Thoughts:** 
+
+**Link to work:** [last twit](https://twitter.com/feya__s/status/818061927909826560)
