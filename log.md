@@ -52,6 +52,6 @@
 
 **Today's Progress**: It was moved to Codepen
 
-**Thoughts:** I've known how to make redux, csstrancition addons, redux-thunr work in Codepen... 
+**Thoughts:** I've found out how to make redux, csstrancition addons, redux-thunr work in Codepen... 
 
 **Link to work:** [CodePen](http://codepen.io/galas123/pen/wgaRrN)
