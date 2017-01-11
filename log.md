@@ -56,7 +56,7 @@
 
 **Link to work:** [CodePen](http://codepen.io/galas123/pen/wgaRrN)
 
-### Day 8: January 11, 2017 
+### Day 8: January 10, 2017 
 
 **Today's Progress**: Start the Simon App. Already finished the first markup.
 
