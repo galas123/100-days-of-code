@@ -58,8 +58,8 @@
 
 ### Day 8: January 11, 2017 
 
-**Today's Progress**: Start the Simon App. Already finishep the first markup.
+**Today's Progress**: Start the Simon App. Already finished the first markup.
 
-**Thoughts:** I've lost 1 day of challenge. And had returned into twice force. 
+**Thoughts:** I've lost 1 day of challenge. And had returned with doubled encourage. 
 
 **Link to work:** [first Simon commit](https://github.com/galas123/simon/commit/29404ee198d927fe0c41fcd9fac9cfd09bdae698)
