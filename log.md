@@ -63,3 +63,12 @@
 **Thoughts:** I've lost 1 day of challenge. And had returned with doubled encourage. 
 
 **Link to work:** [first Simon commit](https://github.com/galas123/simon/commit/29404ee198d927fe0c41fcd9fac9cfd09bdae698)
+
+### Day 9: January 19, 2017 
+
+**Today's Progress**: Working on redux.
+
+**Thoughts:** Many details were forgotten...till the last project. Nothing is working now. It needs the reducer. It will be tomorrow.
+
+**Link to work:** last commit](https://github.com/galas123/simon/commit/85f67bb75ee84ed9b8724c2f3a675b81a78163ce)
+
