@@ -70,5 +70,5 @@
 
 **Thoughts:** Many details were forgotten...till the last project. Nothing is working now. It needs the reducer. It will be tomorrow.
 
-**Link to work:** last commit](https://github.com/galas123/simon/commit/85f67bb75ee84ed9b8724c2f3a675b81a78163ce)
+**Link to work:** [last commit](https://github.com/galas123/simon/commit/85f67bb75ee84ed9b8724c2f3a675b81a78163ce)
 
