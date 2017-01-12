@@ -64,7 +64,7 @@
 
 **Link to work:** [first Simon commit](https://github.com/galas123/simon/commit/29404ee198d927fe0c41fcd9fac9cfd09bdae698)
 
-### Day 9: January 19, 2017 
+### Day 9: January 11, 2017 
 
 **Today's Progress**: Working on redux.
 
