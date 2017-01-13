@@ -72,3 +72,10 @@
 
 **Link to work:** [last commit](https://github.com/galas123/simon/commit/85f67bb75ee84ed9b8724c2f3a675b81a78163ce)
 
+### Day 10: January 12, 2017 
+
+**Today's Progress**: Working on the business logic. Working on the reducer for the App
+
+**Thoughts:** MNothing is working now. It needs debugging
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/09bf01f77e114f5fb3b5c8f94d7e0cf9636d8c34)
