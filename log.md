@@ -79,3 +79,11 @@
 **Thoughts:** MNothing is working now. It needs debugging
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/09bf01f77e114f5fb3b5c8f94d7e0cf9636d8c34)
+
+### Day 11: January 13, 2017 
+
+**Today's Progress**: Working on the business logic. Finished 2 action creators. Its work! Wrong, but work.
+
+**Thoughts:** I should make it work correctly.
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/6ba4fd1812b92a5d6dbce1dc393b3160c43c4e9d)
