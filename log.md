@@ -95,3 +95,11 @@
 **Thoughts:** It goes very slowely.
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/63cfb5caa24e0bda709b87061c49de1b8381b04b)
+
+### Day 13: January 17, 2017 
+
+**Today's Progress**:I've repaid saving data in Store and stuck to Promises! 
+
+**Thoughts:** It goes very slowely...
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/dbdc01e1db87bf36821a2d779f30063234778b4f)
