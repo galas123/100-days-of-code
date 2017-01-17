@@ -87,3 +87,11 @@
 **Thoughts:** I should make it work correctly.
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/6ba4fd1812b92a5d6dbce1dc393b3160c43c4e9d)
+
+### Day 12: January 16, 2017 
+
+**Today's Progress**:Add thunk & start debugging the App in general
+
+**Thoughts:** It goes very slowely.
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/63cfb5caa24e0bda709b87061c49de1b8381b04b)
