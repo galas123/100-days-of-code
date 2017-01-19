@@ -103,3 +103,11 @@
 **Thoughts:** It goes very slowely...
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/dbdc01e1db87bf36821a2d779f30063234778b4f)
+
+### Day 14: January 18, 2017 
+
+**Today's Progress**:I've repaid sounds playing using the promise. 
+
+**Thoughts:** It works almost correct in small score.
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/ffdd007fa0f5861b24514daa40d486f62c69c4ca)
