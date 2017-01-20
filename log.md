@@ -111,3 +111,11 @@
 **Thoughts:** It works almost correct in small score.
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/ffdd007fa0f5861b24514daa40d486f62c69c4ca)
+
+### Day 15: January 19, 2017 
+
+**Today's Progress**:I've repaid sounds playing in strict sequence. 
+
+**Thoughts:** 
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/9e2738095243af4282ecf59d253bc8e12ff5da92)
