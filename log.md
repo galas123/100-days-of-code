@@ -119,3 +119,11 @@
 **Thoughts:** 
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/9e2738095243af4282ecf59d253bc8e12ff5da92)
+
+### Day 16: January 22, 2017 
+
+**Today's Progress**:I've added the feature - changing the button's color. 
+
+**Thoughts:** 
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/6dd78d3304406d9f87a9663d9108ea740ea779f0)
