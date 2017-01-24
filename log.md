@@ -127,3 +127,11 @@
 **Thoughts:** 
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/6dd78d3304406d9f87a9663d9108ea740ea779f0)
+
+### Day 17, 18: January 25, 2017 
+
+**Today's Progress**:Moved the code from reducer to AC. Try to make the buttuns lighting durind the play some note combination... 
+
+**Thoughts:** 
+
+**Link to work:** 
