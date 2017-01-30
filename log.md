@@ -135,3 +135,20 @@
 **Thoughts:** 
 
 **Link to work:** 
+
+### Day 19: January 26, 2017 
+
+**Today's Progress**:Figuring out with lighting durind the play some note combination... 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+
+### Day 20: January 29, 2017 
+
+**Today's Progress**:I've fixed the lighting and counting steps, added extra action, fixed bugs... 
+
+**Thoughts:** I tryed to use logger, but it hasn't helped. I've got a composition with several meddlewares and move the major logic from reducer to action creator.   The app works almost correctly.
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/321b90048f91e79f4c9b79dfeef9d705f1d397f5)
