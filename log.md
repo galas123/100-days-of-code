@@ -152,3 +152,11 @@
 **Thoughts:** I tryed to use logger, but it hasn't helped. I've got a composition with several meddlewares and move the major logic from reducer to action creator.   The app works almost correctly.
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/321b90048f91e79f4c9b79dfeef9d705f1d397f5)
+
+### Day 21: January 29, 2017 
+
+**Today's Progress**:I've made visual behavior for strict mode button 
+
+**Thoughts:** It needs right logic
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/23dda2c29e9099e245021a5ee27154ecfd3d96d3)
