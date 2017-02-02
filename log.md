@@ -153,7 +153,7 @@
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/321b90048f91e79f4c9b79dfeef9d705f1d397f5)
 
-### Day 21: January 29, 2017 
+### Day 21: February 01, 2017 
 
 **Today's Progress**:I've made visual behavior for strict mode button 
 
