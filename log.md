@@ -160,3 +160,11 @@
 **Thoughts:** It needs right logic
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/23dda2c29e9099e245021a5ee27154ecfd3d96d3)
+
+### Day 22-23: February 02-03, 2017 
+
+**Today's Progress**:I've fixed locking the game after error note. Now I'm doing the switch on/off the game.
+
+**Thoughts:** The store is becoming bigger. I used good html pattern for switcher. 
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/39c3fef3d138757ee4379ba105c7788f043d85a6)
