@@ -168,3 +168,11 @@
 **Thoughts:** The store is becoming bigger. I used good html pattern for switcher. 
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/39c3fef3d138757ee4379ba105c7788f043d85a6)
+
+### Day 24: February 06, 2017 
+
+**Today's Progress**:Switcher
+
+**Thoughts:** 
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/0a1589089973cff11c8b4b5d2096b9fc4c6ac3b4)
