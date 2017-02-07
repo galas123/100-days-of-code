@@ -169,10 +169,18 @@
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/39c3fef3d138757ee4379ba105c7788f043d85a6)
 
-### Day 24: February 06, 2017 
+### Day 24: February 04-05, 2017 
 
-**Today's Progress**:Switcher
+**Today's Progress**:Switcher, code review...
 
 **Thoughts:** 
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/0a1589089973cff11c8b4b5d2096b9fc4c6ac3b4)
+
+### Day 25: February 06, 2017 
+
+**Today's Progress**:I made some bugfixes & refactoring after code review. The cretical bug appears. So I'm looking for my mistake in the code!
+
+**Thoughts:** It is hard to refactor your own code without new bugs injection...You should properly test the app after each commit... 
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/9df24d3b4d5312fde21e51da09cf45e3a04fa071)
