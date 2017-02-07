@@ -179,7 +179,7 @@
 
 ### Day 25: February 06, 2017 
 
-**Today's Progress**:I made some bugfixes & refactoring after code review. The cretical bug appears. So I'm looking for my mistake in the code!
+**Today's Progress**:I made some bugfixes & refactoring after code review. The critical bug appears. So I'm looking for my mistake in the code!
 
 **Thoughts:** It is hard to refactor your own code without new bugs injection...You should properly test the app after each commit... 
 
