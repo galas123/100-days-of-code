@@ -184,3 +184,11 @@
 **Thoughts:** It is hard to refactor your own code without new bugs injection...You should properly test the app after each commit... 
 
 **Link to work:** [last commit] (https://github.com/galas123/simon/commit/9df24d3b4d5312fde21e51da09cf45e3a04fa071)
+
+### Day 26: February 11, 2017 
+
+**Today's Progress**:I made some bugfixes & rename some functions, promise.  I finished the App.
+
+**Thoughts:** The code becomes clear and user-friendly, it was the final touch.
+
+**Link to work:** [last commit] (https://github.com/galas123/simon/commit/a2d1db321d8ffc0ff7361df181c37c1ea274e3e4)
